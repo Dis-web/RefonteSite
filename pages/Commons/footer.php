@@ -1,7 +1,7 @@
 </div>
         <!-- footer du site -->
         <footer class='bg-dark text-center text-white rounded-bottom'>
-            <p class='p-2'>&copy; Association N.A.N.A 2018-2019 </p>      
+            <p class='p-2'>&copy; Association N.A.N.A 2020-2021 </p>      
         </footer>
     </div>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

@@ -1,8 +1,7 @@
 <?php
-include("../../utile/formatage.php");
 include("../Commons/header.php"); ?>
 
-<?= styleTitreNiveau1("Les partenaires", "perso_ColorRoseMenu") ?>
+<?= styleTitreNiveau1("Les partenaires", COLOR_ASSOCIATION) ?>
 <div class="row no-gutters">
     <div class="card col-auto mx-auto mt-2" style="width: 18rem;">
         <img src="../../sources/images/Autres/updp-logo.png" class="card-img-top p-1" alt="UPDP">
