@@ -51,8 +51,10 @@
                     Contacts
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item perso_ColorBleuCielMenu" href="#">Action</a>
-                    <a class="dropdown-item perso_ColorBleuCielMenu" href="#">Another action</a>
+                    <a class="dropdown-item perso_ColorBleuCielMenu" href="../Contact/contact.php">Contact</a>
+                    <a class="dropdown-item perso_ColorBleuCielMenu" href="../Contact/don.php">Don</a>
+                    <a class="dropdown-item perso_ColorBleuCielMenu" href="../Contact/mentions.php">Mention légales</a>
+
                 </div>
             </li>
         </ul>

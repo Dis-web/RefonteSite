@@ -1,7 +1,7 @@
 <?php
 
 function styleTitreNiveau1($text, $color){
-$txt = "<h1 class='text-center my-3 ".$color." perso_ColorRoseMenu perso_policeTitre perso_textShadow'>";
+$txt = "<h1 class='text-center my-3 ".$color." perso_policeTitre perso_textShadow'>";
     $txt .= $text;
     $txt .= "</h1>";
     return $txt;
@@ -9,9 +9,17 @@ $txt = "<h1 class='text-center my-3 ".$color." perso_ColorRoseMenu perso_policeT
 
 function styleTitreNiveau2($text, $color)
 {
-    $txt = "<h2 class='text-center my-3 " . $color . " perso_ColorRoseMenu perso_policeTitre perso_textShadow'>";
+    $txt = "<h2 class='text-center my-3 " . $color . " perso_policeTitre perso_textShadow'>";
     $txt .= $text;
     $txt .= "</h2>";
+    return $txt;
+}
+
+function styleTitreNiveau3($text, $color)
+{
+    $txt = "<h3 class='my-3 " . $color . " perso_policeTitre perso_textShadow perso_size26'>";
+    $txt .= $text;
+    $txt .= "</h3>";
     return $txt;
 }
 
